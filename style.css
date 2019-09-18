@@ -1,0 +1,8 @@
+@media all and (min-width: 600px){
+	.portfolio{
+		width: 300px;
+		height:400px;
+		float: left;
+		margin-right: 35px;
+	}
+}
